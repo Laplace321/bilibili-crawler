@@ -1,0 +1,35 @@
+# Bilibili视频链接列表
+# 每行一个视频链接或BV号
+# 以#开头的行将被忽略
+
+# 示例视频链接：
+# https://www.bilibili.com/video/BV1XX4y1Y7Xx
+# BV1FXEbzLEvt
+
+# 更多链接可以添加在下面
+# 有趣
+https://www.bilibili.com/video/BV1G8tpzuEvz
+# 落叶归根
+https://www.bilibili.com/video/BV1bctmzKE9h
+# 君
+https://www.bilibili.com/video/BV1eab9zwEyQ
+# 开始懂了
+https://www.bilibili.com/video/BV1WpumzLEtm
+# 舞娘
+https://www.bilibili.com/video/BV1FKuGzgEPP
+# 梦一场
+https://www.bilibili.com/video/BV1573mziE3n
+# 思念是一种病
+https://www.bilibili.com/video/BV1b8KzzoEUc
+# 一个人跳舞
+https://www.bilibili.com/video/BV1fYKKz1EyN
+# DearFriend
+https://www.bilibili.com/video/BV1NQMqzQERf
+# 李白
+https://www.bilibili.com/video/BV1DyTgzmEmz
+# 爱情沙拉拉
+https://www.bilibili.com/video/BV1AU7szBESp
+# 天空
+https://www.bilibili.com/video/BV1UWjHzPEaz
+# 珠玉
+https://www.bilibili.com/video/BV1FXEbzLEvt
